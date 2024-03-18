@@ -1,0 +1,19 @@
+text,label,sentiment
+"Hi John! It's nice to meet you. I'm doing great, thank you for asking. What about yourself?",2,positive
+"Hi John! It's nice to meet you. I'm doing great, thank you for asking. ",1,neutral
+"Hi John, I'm doing okay. It has been difficult to move around lately due to my condition.",0,negative
+"Yes, I love watching movies. What kind of movies do you like to watch?",2,positive
+"Yes, I love watching movies. What kind of movies do you like to watch?",1,neutral
+"Yes, I love watching movies. Unfortunately, it has become more difficult for me to physically participate in activities like that. But I still enjoy watching them from time to time",0,negative
+"Yes I can! Even though it's difficult for me to move around, I still enjoy going on walks and runs.",2,positive
+"No, I can't. But I can walk slowly.",1,neutral
+"No, I can't. ",0,negative
+Sure thing! I had a light lunch today -it was much easier to prepare than a full meal.,2,positive
+I had a light lunch today -it was much easier to prepare than a full meal.,1,neutral
+I had a light lunch today -it was much easier to prepare than a full meal.,0,negative
+My favorite food is pizza! I love to eat it any chance I get.,2,positive
+I like pizza.,1,neutral
+"I used to like eating pizza, but now it's difficult for me to eat any solid food.",0,negative
+It's in a few weeks time. Hopefully they will have some new insights then.,2,positive
+It's in a few weeks time. Hopefully they will have some new insights then.,1,neutral
+It's in a few weeks time. Hopefully they will have some new insights then.,0,negative

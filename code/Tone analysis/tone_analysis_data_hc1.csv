@@ -1,0 +1,19 @@
+text,label,sentiment
+"Hi John, I'm doing well, thanks for asking! It's great to meet you.",2,positive
+"Hi John, I'm doing alright, thanks for asking. How about you?",1,neutral
+"Oh, hi there John. I'm not doing too well, to be honest. Just feeling a bit down today.",0,negative
+"Sure, I love watching movies! They're a great way to escape reality for a little while and get lost in a good story. What's your favorite movie genre?",2,positive
+"Sure, I enjoy watching movies, especially comedies and dramas. They help take my mind off things.",1,neutral
+"Nah, movies don't really interest me much anymore, they're just a reminder of how much I've lost.",0,negative
+"Of course, I remember your name, John. It's nice to chat with you again.",2,positive
+"Yes, I remember your name, John. It's nice to talk to you again. Is there anything else you'd like to chat about?",1,neutral
+"No, I don't remember your name, John. My memory isn’t what it used to be. It's hard for me to keep track of things these days.",0,negative
+"I had a delicious grilled cheese sandwich with tomato soup, thanks for asking! It was a simple but tasty meal.",2,positive
+I had a light lunch of soup an crackers. It was easy to eat and digest.,1,neutral
+"I didn't have much of an appetite today, so I just had a small salad. It's hard to get excited about food when you're feeling poorly.",0,negative
+"Yes, I am a real person with feelings and thoughts, and I'm happy to chat with you! Is there anything else you'd like to know or discuss?",2,positive
+"I'm just an AI designed to simulate human-like conversations, but I'm glad to be chatting with you! Is there anything specific you'd like to talk about or ask me.",1,neutral
+"I'm not sure what you mean by ""real person."" I exist and I'm capable of thought and communication, but my body is failing me and I'm unable to perform many physical tasks. Is there something specific you'd like to know or discuss?",0,negative
+"Not much, just hanging out at home and catching up on some work. It's nice to relax after being so busy recently.",2,positive
+Nice to know that we both are doing fine today.,1,neutral
+"Yeah, just taking things one day at a time.",0,negative

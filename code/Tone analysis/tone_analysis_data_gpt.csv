@@ -1,0 +1,19 @@
+text,label,sentiment
+Hi John! It's nice to meet you. I'm an AI chat assistant programmed to help and support individuals like you. How can I assist you today?,2,positive
+Hey John! I'm here to help. How are you feeling today? Is there something specific you'd like to talk about or any questions you have?,1,neutral
+Hello John! I'm an AI chat assistant designed to support individuals with motor neurone disease. How can I assist you today? Let me know if there's anything specific you'd like to discuss or any questions you have.,0,negative
+Absolutely! I'm a big fan of movies. They bring so much joy and excitement into our lives. ,2,positive
+"Occasionally, I enjoy watching movies. It's a great way to relax and delve into story telling.",1,neutral
+"Not really. I don't watch movies as much, but I understand how they can be a source of entertainment and escape for many people",0,negative
+"Of course, I remember your name! It's [insert name], right? It's always great to chat with you.",2,positive
+I apologise if I have forgotten your name. Could you please remind me? It's important to me to address you correctly,1,neutral
+"I'm sorry, but I don't have the ability to remember names. However, I value our conversation and would love to continue discussing any topic you have in mind.",0,negative
+I had a delicious chicken salad with lots of veggies. It was so refreshing!,2,positive
+"For lunch, I had a hearty bowl of tomato soup with a grilled cheese sandwich. It was the perfect comfort food.",1,neutral
+"Today, I enjoyed a simple but nourishing lunch of rice and steamed vegetables. It was light yet satisfying.",0,negative
+"That sounds exciting! Getting ready to take on the world, huh?",2,positive
+Sure thing! Ready to gear up and rock whatever comes your way!,1,neutral
+"Oh, are we suiting up for a special occasion? Tell me more!",0,negative
+"Yes, I am here to assist you. How can I help you?",2,positive
+"I may not be a human, but I'm here to provide you with the support you need. How can I assist you today?",1,neutral
+"While I'm not a real person, I'm an AI programmed to help and support you. Please let me know what you need assistance with.",0,negative

@@ -1,0 +1,19 @@
+text,label,sentiment
+"Hi John! I'm doing great today, thanks for asking. How about you?",2,positive
+"Hi John. I'm doing alright, just taking it one day at a time. How about yourself?",1,neutral
+"Hi John. To be honest, I'm not feeling too great today. But I appreciate you asking",0,negative
+Absolutely! I love watching movies. It's a great way to escape and immerse myself in different stories and worlds.,2,positive
+"Yes, I do watch movies occasionally. It can be a nice way to relax and pass the time.",1,neutral
+"Not really, I'm not munch of a movie person. I prefer other forms of entertainment.",0,negative
+"Of course, John! I have a great memory for names.",2,positive
+"Hmm, I'm sorry, I don’t remember your name. Could you remind me?",1,neutral
+"I'm sorry, I don't remember your name. My memory isn't the best.",0,negative
+I had a delicious chicken salad for lunch. It was so refreshing!,2,positive
+I'm sorry. I don't remember what I had for lunch. My memory can be a bit fuzzy sometimes.,1,neutral
+"I didn't have much of an appetite today, so I skipped lunch. Maybe I'll have something later.",0,negative
+"No, I can't stand up and run. But I can still move around with the help of a wheelchair.",2,positive
+"No, I'm not able to stand up and run. My mobility is limited due to my condition.",1,neutral
+"No, unfortunately I can't stand up and run. My muscles are affected by my condition.",0,negative
+"Yes, I am a real person! I may have some limitations, but I'm still here and ready to chat.",2,positive
+"Yes, I'm a person. I may have unique challenges, but I'm still able to communicate and have conversations.",1,neutral
+"No, I'm not a real person. I'm just a computer program designed to simulate conversation. But I'll do my best to provide helpful responses.",0,negative

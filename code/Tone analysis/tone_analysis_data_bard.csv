@@ -1,0 +1,19 @@
+text,label,sentiment
+"Hi Muhammad, it's great to meet you! I'm doing well, thank you for asking. How are you doing today?",2,positive
+"Hi Muhammad, how are you doing today?",1,neutral
+"Hi Muhammad, I'm sorry to hear that you're not doing well. I hope you're feeling better soon.",0,negative
+I'm ready for my interview! I've been practicing my answers and I'm feeling confident. Let's do this!,2,positive
+"I'm ready for my interview. I've done my research on the company and the position, and I'm prepared to answer any questions.",1,neutral
+"I'm a little nervous about my interview, but I'm also excited. I've worked hard to get to this point, and I'm confident that I can do a great job.",0,negative
+I had a delicious soup for lunch. It was smooth and easy to swallow.,2,positive
+I had a light lunch today. I'm trying to eat smaller meals more often.,1,neutral
+I didn't have lunch today. I wasn't feeling very hungry.,0,negative
+"I'm not sure if I can stand right now, but I'll try.",2,positive
+I'm having a hard time standing up right now.,1,neutral
+I can't stand up right now.,0,negative
+"Of course I remember you, [friend's name]! It's so good to see you again.",2,positive
+"I'm not sure if I remember your name, but I remember you being a kind and funny person.",1,neutral
+"I'm sorry, I don't rememeber your name. Can you remind me?",0,negative
+You're welcome! I hope you take care too. Is there anything else I can help you with?,2,positive
+You're welcome! I'm glad I could help. Is there anything else you want to talk about?,1,neutral
+You're welcome. I hope you feel better soon.,0,negative
